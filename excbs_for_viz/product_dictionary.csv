@@ -1,0 +1,393 @@
+small_category,category,big_category,brand,prod_nm
+cat9,cat9,catE,sulhwasoo,핸드워시 백은향
+cat4,cat4,catB,sulhwasoo,퍼펙팅 쿠션 SPF+/PA+++
+cat4,cat4,catB,sulhwasoo,퍼펙팅 스킨커버 SPF/PA++
+cat2,cat2,catA,sulhwasoo,진설수
+cat2,cat2,catA,sulhwasoo,진설유액
+cat2,cat2,catA,sulhwasoo,진설에센스
+cat2,cat2,catA,sulhwasoo,진설크림
+cat4,cat4,catB,sulhwasoo,자정 브라이트닝 쿠션 SPF+/PA+++
+cat2,cat2,catA,sulhwasoo,설린에센스
+cat2,cat2,catA,sulhwasoo,탄력크림
+cat2,cat2,catA,sulhwasoo,설린아이크림
+cat4,cat4,catB,sulhwasoo,진설 세럼 쿠션 SPF+/PA+++
+cat2,cat2,catA,sulhwasoo,윤조&자음생 안티에이징 스페셜 리추얼세트
+cat4,cat4,catB,sulhwasoo,진설 세럼 파운데이션 SPF/PA++
+cat2,cat2,catA,sulhwasoo,윤조에센스 뷰티 시크릿 에디션
+cat2,cat2,catA,sulhwasoo,탄력에센셜종 지함보
+cat4,cat4,catB,sulhwasoo,퍼펙팅파운데이션 C + 산수화 브러쉬 세트
+cat4,cat4,catB,sulhwasoo,퍼펙팅파운데이션 N + 산수화 브러쉬 세트
+cat4,cat4,catB,sulhwasoo,퍼펙팅파운데이션 W + 산수화 브러쉬 세트
+cat4,cat4,catB,sulhwasoo,퍼펙팅 베일 베이스 SPF/PA++
+cat3,cat3,catA,sulhwasoo,상백선크림 썸머키트
+cat2,cat2,catA,sulhwasoo,자정미백에센스
+cat9,cat9,catE,sulhwasoo,핸드크림 백은향
+cat10,cat10,catE,sulhwasoo,동백윤모오일
+cat2,cat2,catA,sulhwasoo,여윤팩
+cat2,cat2,catA,sulhwasoo,윤조마스크
+cat2,cat2,catA,sulhwasoo,설린크림
+cat4,cat4,catB,sulhwasoo,퍼펙팅 트윈케이크 SPF/PA+++
+cat2,cat2,catA,sulhwasoo,진설마스크
+cat9,cat9,catE,sulhwasoo,바디로션 백은향
+cat2,cat2,catA,sulhwasoo,자음생에센스
+cat1,cat1,catA,sulhwasoo,궁중비누 레귤러세트
+cat2,cat2,catA,sulhwasoo,진설아이크림
+cat4,cat4,catB,sulhwasoo,진설 파우더 팩트
+cat2,cat2,catA,sulhwasoo,자정미백크림
+cat2,cat2,catA,sulhwasoo,설린수
+cat2,cat2,catA,sulhwasoo,윤조에센스
+cat4,cat4,catB,sulhwasoo,메이크업밸런서 SPF PA++
+cat9,cat9,catE,sulhwasoo,바디워시 백은향
+cat2,cat2,catA,sulhwasoo,백삼팩
+cat2,cat2,catA,sulhwasoo,자음생마스크
+cat2,cat2,catA,sulhwasoo,수율크림
+cat2,cat2,catA,sulhwasoo,자음생아이크림
+cat2,cat2,catA,sulhwasoo,자음생수
+cat2,cat2,catA,sulhwasoo,자음생유액
+cat3,cat3,catA,sulhwasoo,상백선크림 듀오세트 SPF+/PA++++
+cat5,cat5,catC,sulhwasoo,에센셜 립세럼 스틱
+cat1,cat1,catA,sulhwasoo,순행클렌징폼 리필 세트
+cat2,cat2,catA,sulhwasoo,섬리안크림
+cat2,cat2,catA,sulhwasoo,옥용팩
+cat2,cat2,catA,sulhwasoo,진초팩
+cat2,cat2,catA,sulhwasoo,자음생앰플
+cat4,cat4,catB,sulhwasoo,퍼펙팅 파우더
+cat9,cat9,catE,sulhwasoo,트래블키트 백은향
+cat2,cat2,catA,sulhwasoo,자정유액
+cat4,cat4,catB,sulhwasoo,퍼펙팅 파운데이션 SPF/PA+
+cat2,cat2,catA,sulhwasoo,자정수
+cat1,cat1,catA,sulhwasoo,순행클렌징오일
+cat2,cat2,catA,sulhwasoo,자음유액
+cat1,cat1,catA,sulhwasoo,순행클렌징폼
+cat2,cat2,catA,sulhwasoo,자음수
+cat3,cat3,catA,sulhwasoo,상백선크림 SPF+/PA++++
+cat3,cat3,catA,sulhwasoo,본윤선크림 SPF+/PA++++
+cat2,cat2,catA,sulhwasoo,진설아이에센스
+cat1,cat1,catA,sulhwasoo,진설클렌징폼
+cat2,cat2,catA,sulhwasoo,본윤에센스
+cat4,cat4,catB,sulhwasoo,퍼펙팅 파운데이션 글로우 SPF/PA+
+cat9,cat9,catE,sulhwasoo,핸드크림 금윤향
+cat5,cat5,catC,hera,센슈얼 스파이시 누드 밤
+cat4,cat4,catB,hera,블랙 쿠션 SPF/PA++
+cat4,cat4,catB,hera,메이크업 픽서
+cat6,cat6,catD,hera,브로우 디자이너 오토펜슬
+cat2,cat2,catA,hera,셀에센스 바이옴 플러스
+cat4,cat4,catB,hera,에어리 파우더 프라이머
+cat4,cat4,catB,hera,HD 퍼펙트 파우더 팩트 SPF/PA+++
+cat3,cat3,catA,hera,선 메이트 엑설런스 SPF+ PA++++
+cat3,cat3,catA,hera,선 메이트 레포츠 프로 워터프루프SPF+ PA++++
+cat6,cat6,catD,hera,섀도 듀오
+cat5,cat5,catC,hera,센슈얼 스파이시 누드 밤 깔라만시
+cat3,cat3,catA,hera,선 메이트 스틱 SPF+ PA++++
+cat3,cat3,catA,hera,선 메이트 프로텍터 SPF+ PA+++
+cat4,cat4,catB,hera,UV 미스트 쿠션 커버
+cat1,cat1,catA,hera,멜라솔브 프로그램 딥 클렌징 폼
+cat5,cat5,catC,hera,루즈홀릭
+cat5,cat5,catC,hera,루즈홀릭 매트
+cat4,cat4,catB,hera,블랙 파운데이션 SPF/PA+
+cat5,cat5,catC,hera,센슈얼 파우더 매트
+cat5,cat5,catC,hera,센슈얼 스파이시 누드 글로스
+cat5,cat5,catC,hera,센슈얼 스파이시 누드 볼륨 매트
+cat7,cat7,catD,hera,페이스 디자이닝 블러셔
+cat1,cat1,catA,hera,리프레싱 토닉 클렌징워터
+cat7,cat7,catD,hera,페이스 디자이닝 브론저
+cat1,cat1,catA,hera,크리미 클렌징 폼
+cat1,cat1,catA,hera,퍼펙팅 아이앤립 리무버
+cat1,cat1,catA,hera,릴렉싱 딥 클렌징 오일
+cat2,cat2,catA,hera,시그니아 워터
+cat2,cat2,catA,hera,시그니아 앰플 보세트  x
+cat2,cat2,catA,hera,멜라솔브 프로그램 브라이트닝 세럼
+cat2,cat2,catA,hera,시그니아 크림 세트
+cat2,cat2,catA,hera,에이지 어웨이 콜라제닉 세럼
+cat5,cat5,catC,hera,센슈얼 프레쉬 립 오일
+cat2,cat2,catA,hera,옴므 블랙 액티브 부스팅 세럼
+cat2,cat2,catA,hera,시그니아 루미네소스 세트
+cat3,cat3,catA,hera,선 메이트 에어리 선 밀크 SPF+/PA++++
+cat4,cat4,catB,hera,아이 엠 블랙 쿠션 SPF/PA++
+cat5,cat5,catC,hera,아이 엠 센슈얼 파우더 매트
+cat7,cat7,catD,hera,아이 엠 멀티팔레트
+cat2,cat2,catA,hera,루미네소스 세럼 x S_SIL 콜라보 세트
+cat2,cat2,catA,hera,시그니아 크림 보세트
+cat7,cat7,catD,hera,페이스 디자이닝 하이라이터
+cat2,cat2,catA,hera,아쿠아볼릭 하이드로-휩 크림
+cat2,cat2,catA,hera,에이지 어웨이 콜라제닉 크림
+cat2,cat2,catA,hera,시그니아 루미네소스 래디언스 퍼밍 세럼
+cat2,cat2,catA,hera,시그니아 아이 트리트먼트
+cat4,cat4,catB,hera,블랙 컨실러 닷 커버
+cat2,cat2,catA,hera,헤라 유스 액티베이팅 셀 세럼
+cat4,cat4,catB,hera,블랙 파운데이션 & 브러쉬 세트
+cat6,cat6,catD,hera,란제리 컬렉션 누드 글로우 멀티 팔레트
+cat6,cat6,catD,hera,브로우 디자이너 마스카라
+cat2,cat2,catA,hera,시그니아 세럼 보세트
+cat2,cat2,catA,hera,아쿠아볼릭 하이드로-펄 세럼
+cat2,cat2,catA,hera,아쿠아볼릭 하이드로-젤 크림
+cat2,cat2,catA,hera,에이지 어웨이 콜라제닉 아이크림
+cat2,cat2,catA,hera,에이지 어웨이 콜라제닉 워터
+cat2,cat2,catA,hera,에이지 어웨이 콜라제닉 에멀젼
+cat6,cat6,catD,hera,리치 컬링 마스카라
+cat2,cat2,catA,hera,아쿠아볼릭 에센셜 에멀젼
+cat6,cat6,catD,hera,아이 디자이너 펜슬
+cat4,cat4,catB,hera,글로우 래스팅 쿠션 SPF+/PA+++
+cat2,cat2,catA,hera,아쿠아볼릭 에센셜 워터
+cat2,cat2,catA,hera,시그니아 에멀젼
+cat2,cat2,catA,hera,셀 에센스 바이옴 플러스
+cat5,cat5,catC,hera,립 디자이너 오토 펜슬
+cat2,cat2,catA,hera,링클 코렉터
+cat5,cat5,catC,hera,센슈얼 스파이시 누드 글로스 썸머 리미티드
+cat4,cat4,catB,hera,란제리 컬렉션 글로우 래스팅 쿠션 SPF+/PA+++ N
+cat5,cat5,catC,hera,란제리 컬렉션 센슈얼 스파이시 누드 글로스
+cat6,cat6,catD,hera,리치 롱래쉬 워터프루프 마스카라
+cat4,cat4,catB,hera,어반 베일 CC크림
+cat4,cat4,catB,hera,블랙 컨실러 스프레드 커버
+cat6,cat6,catD,hera,브로우 디자이너 팩트
+cat9,cat9,catE,primera,클린 앤 세이프 새니타이저
+cat1,cat1,catA,primera,퀵스텝 클렌징세트
+cat9,cat9,catE,primera,프리메라x룰라러브 베이비 세트
+cat2,cat2,catA,primera,프라임 리커버리 더블 캡슐 세럼
+cat2,cat2,catA,primera,슈퍼 블랙씨드 콜드-드랍 크림
+cat2,cat2,catA,primera,알파인 베리 워터리 컴포팅 스킨 미스트
+cat1,cat1,catA,primera,바하 버블 필링 클렌저
+cat2,cat2,catA,primera,알파인 베리 워터리 수딩 젤 크림
+cat1,cat1,catA,primera,미셀라  클렌징워터
+cat9,cat9,catE,primera,모이스처 스무딩 케어
+cat10,cat10,catE,primera,블랙씨드 스칼프 릴리프 헤어 토닉
+cat1,cat1,catA,primera,모이스처 클렌징 티슈
+cat1,cat1,catA,primera,스무스 클렌징 크림
+cat2,cat2,catA,primera,에센셜 마사지 크림
+cat10,cat10,catE,primera,마룰라 안티-드라이니스 모이스처 헤어 세럼
+cat10,cat10,catE,primera,블랙씨드 스칼프 릴리프 트리트먼트
+cat5,cat5,catC,primera,내추럴 베리 립 마스크
+cat3,cat3,catA,primera,스킨 릴리프 워터프루프 선블록 SPF+/PA+++
+cat9,cat9,catE,primera,망고 버터 컴포팅 바디 로션
+cat9,cat9,catE,primera,망고 버터 컴포팅 바디 워시
+cat2,cat2,catA,primera,리페어빈 시카 크림
+cat1,cat1,catA,primera,페이셜 인텐시브 필링
+cat1,cat1,catA,primera,페이셜 마일드 필링
+cat10,cat10,catE,primera,블랙씨드 스칼프 릴리프 샴푸 리필
+cat10,cat10,catE,primera,블랙씨드 스칼프 릴리프 샴푸
+cat2,cat2,catA,primera,리페어빈 시카 에센스
+cat9,cat9,catE,primera,아로마 바디 스크럽 워시
+cat5,cat5,catC,primera,내추럴 베리 립밤
+cat3,cat3,catA,primera,베이비 선 쿠션 SPF PA++
+cat9,cat9,catE,primera,더 릴리프 크림 포 스트레치 마크
+cat9,cat9,catE,primera,베이비 아토트리트 크림
+cat2,cat2,catA,primera,알파인 베리 워터리 크림
+cat2,cat2,catA,primera,오가니언스 에멀젼
+cat2,cat2,catA,primera,프리메라 슈퍼 블랙씨드 콜드-드랍™ 세럼
+cat2,cat2,catA,primera,미라클 씨드 에센스
+cat1,cat1,catA,primera,리치 포밍 클렌저
+cat1,cat1,catA,primera,내추럴 리치 클렌징 폼
+cat2,cat2,catA,primera,오가니언스 워터
+cat2,cat2,catA,primera,씨드 앤 스프라우트 에너지 마스크
+cat3,cat3,catA,amore,트리플 디펜스 선 프로텍터 SPF+/PA++++
+cat2,cat2,catA,amore,타임 레스폰스 스킨 리저브 세럼
+cat2,cat2,catA,amore,타임 레스폰스 인텐시브 리뉴얼 앰플
+cat2,cat2,catA,amore,빈티지 싱글 익스트렉트 에센스
+cat2,cat2,catA,amore,더 에센셜 크림 플루이드
+cat2,cat2,catA,amore,타임 레스폰스 스킨 리저브 크림
+cat2,cat2,catA,amore,타임 레스폰스 스킨 리저브 젤 크림
+cat2,cat2,catA,amore,모이스춰 플럼핑 컨센트레이트 앰플
+cat2,cat2,catA,amore,타임 레스폰스 스킨 리저브 인텐시브 크림
+cat1,cat1,catA,amore,트리트먼트 클렌징 오일
+cat2,cat2,catA,amore,유스 레볼루션 래디언스 컨센트레이터
+cat2,cat2,catA,amore,모이스춰플럼핑 리쥬브네이팅 아이 젤
+cat4,cat4,catB,amore,모이스춰 바운드 루미너스 쿠션 컴팩트 SPF+/PA+++
+cat2,cat2,catA,amore,모이스춰 플럼핑 넥타 크림
+cat2,cat2,catA,amore,빈티지 싱글 익스트렉트 에센스 스타터세트
+cat2,cat2,catA,amore,보태니컬 수딩 토너
+cat2,cat2,catA,amore,보태니컬 하이드레이팅 플루이드
+cat2,cat2,catA,amore,타임레스폰스 디스커버리 세트
+cat2,cat2,catA,amore,라인에이징 코렉터
+cat2,cat2,catA,amore,타임 레스폰스 스킨 리저브 플루이드
+cat2,cat2,catA,amore,유스 레볼루션 래디언스 마스크
+cat2,cat2,catA,amore,모이스춰 플럼핑 듀이 미스트
+cat2,cat2,catA,amore,타임 레스폰스 스킨 리저브 토너
+cat2,cat2,catA,amore,타임 레스폰스 스킨 리뉴얼 미스트
+cat4,cat4,catB,amore,타임 레스폰스 컴플릿 쿠션 컴팩트 SPF+/PA+++
+cat2,cat2,catA,amore,빈티지 싱글 익스트렉트 앰플
+cat1,cat1,catA,amore,트리트먼트 엔자임 클렌징 폼
+cat1,cat1,catA,amore,트리트먼트 엔자임 필 클렌징 파우더
+cat2,cat2,catA,amore,타임 레스폰스 아이 리저브 크림
+cat3,cat3,catA,amore,타임 레스폰스 스킨 리저브 선 세럼 SPF+ PA++++
+cat2,cat2,catA,iope,더마 리페어 제로 마스크
+cat4,cat4,catB,iope,퍼펙트 커버 파운데이션
+cat4,cat4,catB,iope,퍼펙트 커버 베이스
+cat2,cat2,catA,iope,스템Ⅲ 앰플
+cat2,cat2,catA,iope,스템Ⅲ 소프너
+cat2,cat2,catA,iope,리얼 비타민 C 앰플
+cat2,cat2,catA,iope,바이오 컨디셔닝 에센스
+cat2,cat2,catA,iope,비타민 E 세라마이드 밀크 소프너
+cat3,cat3,catA,iope,UV 쉴드 안티폴루션 선 세럼 SPF + PA++
+cat3,cat3,catA,iope,UV 쉴드 에센셜 톤업 선
+cat2,cat2,catA,iope,비타민 에이스 크림
+cat2,cat2,catA,iope,레티놀 엑스퍼트
+cat1,cat1,catA,iope,더마 리페어 약산성 클렌징 워터
+cat2,cat2,catA,iope,슈퍼바이탈 크림
+cat2,cat2,catA,iope,슈퍼바이탈 크림 리치
+cat2,cat2,catA,iope,더마트러블 토너
+cat2,cat2,catA,iope,에이지 코렉터
+cat2,cat2,catA,iope,더마 리페어 제로 미스트
+cat5,cat5,catC,iope,립 뉴트리 볼륨 세럼
+cat2,cat2,catA,iope,스템Ⅲ 에멀젼
+cat2,cat2,catA,iope,비타민 E 세라마이드 크림
+cat4,cat4,catB,iope,에어쿠션® 커버
+cat6,cat6,catD,iope,퍼펙션 볼륨 마스카라
+cat2,cat2,catA,iope,더마트러블 에멀젼
+cat2,cat2,catA,iope,더마 리페어 시카 젤 크림
+cat4,cat4,catB,iope,에어쿠션 스킨핏 톤업
+cat4,cat4,catB,iope,에어쿠션® 내추럴
+cat2,cat2,catA,iope,슈퍼바이탈 세럼
+cat2,cat2,catA,iope,더마 리페어 시카크림
+cat6,cat6,catD,iope,퍼펙트 디파이닝 아이라이너
+cat4,cat4,catB,iope,퍼펙트 커버 쿠션
+cat4,cat4,catB,iope,슈퍼바이탈 트윈팩트 EX SPF/PA+++
+cat2,cat2,catA,iope,라이브 리프트 크림
+cat1,cat1,catA,iope,모이스트 클렌징 오일
+cat1,cat1,catA,iope,프로 필링 소프트 젤
+cat2,cat2,catA,iope,라이브 리프트 세럼
+cat2,cat2,catA,iope,멜라솔브 스팟 클리어링 에센스
+cat2,cat2,catA,iope,슈퍼바이탈 아이크림
+cat2,cat2,catA,iope,라이브 리프트 에멀젼 인텐시브
+cat2,cat2,catA,iope,히아루로닉 크림
+cat3,cat3,catA,iope,UV쉴드 선 스틱 SPF+PA++++
+cat1,cat1,catA,iope,모이스트 클렌징 휘핑폼
+cat2,cat2,catA,iope,라이브 리프트 소프너 인텐시브
+cat9,cat9,catE,iope,UV쉴드 선 프로텍터 XP SPF + PA++++
+cat1,cat1,catA,iope,프로 필링 트리플 AHA 클렌저
+cat4,cat4,catB,laneige,네오쿠션_매트
+cat2,cat2,catA,laneige,퍼펙트 리뉴 유스 레티놀 프로
+cat2,cat2,catA,laneige,워터뱅크 모이스춰 에센스
+cat2,cat2,catA,laneige,피토알렉신 진정 보습 크림
+cat4,cat4,catB,laneige,비비쿠션_안티에이징
+cat2,cat2,catA,laneige,퍼펙트 리뉴 유스 에멀젼
+cat4,cat4,catB,laneige,비비 쿠션_포어 컨트롤
+cat2,cat2,catA,laneige,에센셜 밸런싱 스킨 리파이너_라이트
+cat4,cat4,catB,laneige,라이트 핏 팩트
+cat1,cat1,catA,laneige,퍼펙트 포어 클렌징오일
+cat2,cat2,catA,laneige,워터뱅크 모이스춰 크림 EX
+cat2,cat2,catA,laneige,크림 스킨 미스트
+cat2,cat2,catA,laneige,에센셜 파워 스킨 리파이너_모이스춰
+cat1,cat1,catA,laneige,멀티 딥 클린 클렌저
+cat2,cat2,catA,laneige,워터뱅크 하이드로 에센스
+cat3,cat3,catA,laneige,워터리 선 크림 SPF+ PA++++
+cat4,cat4,catB,laneige,네오쿠션_글로우
+cat2,cat2,catA,laneige,피토알렉신 수분 진정 앰플
+cat2,cat2,catA,laneige,에센셜 파워 에멀젼_모이스춰
+cat2,cat2,catA,laneige,워터뱅크 하이드로 크림 EX
+cat5,cat5,catC,laneige,스테인드 글라스틱
+cat5,cat5,catC,laneige,립 슬리핑 마스크 EX
+cat5,cat5,catC,laneige,실크 인텐스 립스틱
+cat2,cat2,catA,laneige,퍼펙트 리뉴 크림
+cat4,cat4,catB,laneige,스킨베일 베이스
+cat2,cat2,catA,laneige,화이트 듀 스킨 리파이너
+cat2,cat2,catA,laneige,워터뱅크 아이 젤
+cat5,cat5,catC,laneige,타투 립 틴트
+cat2,cat2,catA,laneige,클리어 C 어드밴스드 이펙터_EX
+cat6,cat6,catD,laneige,아이디얼 섀도우 쿼드
+[#BFF] 아이 팔레트 11g,cat6,catD,laneige,아이 팔레트
+cat5,cat5,catC,laneige,얼티미스틱 휘핑 틴트
+cat2,cat2,catA,laneige,래디언씨 크림
+cat2,cat2,catA,laneige,피토알렉신 수분 진정 토너
+cat2,cat2,catA,laneige,래디언씨 비타민 스팟 앰플
+cat2,cat2,catA,laneige,래디언씨 비타민 스팟 앰플  + 래디언씨 크림
+cat2,cat2,catA,laneige,비스포크 크림스킨
+cat3,cat3,catA,laneige,래디언씨 선크림 SPF+/PA++++
+cat2,cat2,catA,laneige,워터 슬리핑 마스크
+cat2,cat2,catA,laneige,시카 슬리핑 마스크
+cat4,cat4,catB,laneige,네오 파운데이션_매트
+cat4,cat4,catB,laneige,네오 파운데이션_글로우
+cat2,cat2,catA,laneige,퍼펙트 리뉴 유스 스킨리파이너
+cat4,cat4,catB,laneige,레이어링 커버 쿠션 + 컨실링 베이스
+cat2,cat2,catA,laneige,퍼펙트 리뉴 아이 크림
+cat4,cat4,catB,laneige,스킨베일 베이스 쿠션 SPF PA++
+cat5,cat5,catC,mamonde,크리미틴트 컬러밤 쉬폰
+cat2,cat2,catA,mamonde,로즈 블레미쉬 클리어링 세럼  기획세트
+cat2,cat2,catA,mamonde,레티놀 앰플 토너
+cat2,cat2,catA,mamonde,로즈 블레미쉬 클리어링 세럼
+cat2,cat2,catA,mamonde,로즈 기획 구성
+cat1,cat1,catA,mamonde,마이크로 딥 클렌징 오일
+cat4,cat4,catB,mamonde,올 스테이 파운데이션
+cat2,cat2,catA,mamonde,로즈워터 젤 크림
+cat2,cat2,catA,mamonde,에이지컨트롤 에멀젼
+cat2,cat2,catA,mamonde,에이지 컨트롤 파워 세럼
+cat2,cat2,catA,mamonde,바이탈 비타민 에센스
+cat6,cat6,catD,mamonde,수퍼롱웨어 오토펜슬 슬림라이너
+cat4,cat4,catB,mamonde,토탈 솔루션 비비크림
+cat6,cat6,catD,mamonde,롱래스팅 리퀴드 아이라이너
+cat2,cat2,catA,mamonde,플로랄 하이드로 앰플토너
+cat1,cat1,catA,mamonde,트리플 멀티 클렌징 크림
+cat1,cat1,catA,mamonde,트리플 멀티 클렌징 티슈
+cat2,cat2,catA,mamonde,로즈워터 수딩젤
+cat2,cat2,catA,mamonde,로즈워터 토너
+cat2,cat2,catA,mamonde,플로랄 하이드로 에멀젼
+cat2,cat2,catA,mamonde,세라마이드 스킨 소프너
+cat1,cat1,catA,mamonde,아쿠아 필 필링젤
+cat1,cat1,catA,mamonde,포어클린 블랙헤드 스틱
+cat6,cat6,catD,mamonde,내추럴 엣지 브러쉬 라이너
+cat9,cat9,catE,mamonde,에브리데이 아쿠아 선크림
+cat4,cat4,catB,mamonde,올 스테이 텐션팩트 글로우 SPF/PA++
+cat3,cat3,catA,mamonde,에브리데이 선스틱 SPF+/PA++++
+cat2,cat2,catA,mamonde,프로바이오틱스 세라마이드 크림
+cat9,cat9,catE,mamonde,플라워 센티드 핸드크림
+cat2,cat2,catA,mamonde,세라마이드 인텐스 크림
+cat1,cat1,catA,mamonde,마이크로 딥 클렌징 오일 티슈
+cat1,cat1,catA,mamonde,트리플 멀티 클렌징 폼
+cat2,cat2,catA,mamonde,로즈워터 토너 패드
+cat2,cat2,catA,mamonde,세라마이드 에멀젼
+cat1,cat1,catA,mamonde,마이크로 딥 클렌징 폼
+cat2,cat2,catA,mamonde,플라워 토너 종
+cat6,cat6,catD,mamonde,내추럴 오토펜슬 아이브로우
+cat5,cat5,catC,mamonde,크리미틴트 컬러 밤 인텐스
+cat2,cat2,catA,mamonde,센텔라 트러블 토너
+cat2,cat2,catA,mamonde,블루 캐모마일 수딩 리페어 크림  +
+cat2,cat2,catA,hanyul,극진 스킨
+cat2,cat2,catA,hanyul,극진 크림 세트
+cat2,cat2,catA,hanyul,산들박하 트러블 스팟 젤
+cat3,cat3,catA,hanyul,흰감국 보송 선스틱 SPF+/PA++++
+cat2,cat2,catA,hanyul,서리태 새결 크림
+cat2,cat2,catA,hanyul,극진 에멀젼
+cat5,cat5,catC,hanyul,자연을 닮은 립밤
+cat2,cat2,catA,hanyul,흰감국 톤업 크림 SPF/PA++
+cat2,cat2,catA,hanyul,산들박하 트러블 토너
+cat1,cat1,catA,hanyul,산들박하 트러블 클렌징폼
+cat2,cat2,catA,hanyul,극진 에센스 기획세트
+cat2,cat2,catA,hanyul,달빛유자 페이스 오일
+cat2,cat2,catA,hanyul,달빛유자 오일 시트마스크
+cat2,cat2,catA,hanyul,채움 탄력 에멀젼
+cat4,cat4,catB,hanyul,커버 파운데이션 글로우
+cat4,cat4,catB,hanyul,커버파운데이션 C + 브러쉬 콜라보 세트
+cat4,cat4,catB,hanyul,커버파운데이션 N + 브러쉬 콜라보 세트
+cat5,cat5,catC,hanyul,달빛유자 립마스크
+cat1,cat1,catA,hanyul,어린쑥 순수 젤 클렌저
+cat2,cat2,catA,hanyul,어린쑥 수분진정 앰플세럼
+cat2,cat2,catA,hanyul,산들박하 트러블 진정 크림
+cat1,cat1,catA,hanyul,어린쑥 수분진정 크림비누
+cat2,cat2,catA,hanyul,백화고 앰플 에센스
+cat9,cat9,catE,hanyul,어린쑥 여성 청결제
+cat2,cat2,catA,hanyul,갈색솔잎 안티에이징 앰플 주 프로그램 ea
+cat1,cat1,catA,hanyul,백화고 클렌징 마사지 크림
+cat9,cat9,catE,hanyul,자연을 닮은 핸드크림 달빛유자 그리고 서리태 세트
+cat4,cat4,catB,hanyul,커버 비비크림
+cat2,cat2,catA,hanyul,극진 아이크림 기획세트
+cat9,cat9,catE,hanyul,자연을 닮은 풋크림 - 서리태
+cat2,cat2,catA,hanyul,백화고 아이크림
+cat1,cat1,catA,hanyul,어린쑥 진정맑은 클렌징 오일
+cat2,cat2,catA,hanyul,송담 탄력 에멀젼
+cat2,cat2,catA,hanyul,빨간쌀 진액 에멀젼
+cat2,cat2,catA,hanyul,달빛유자C™ 세럼
+cat2,cat2,catA,hanyul,빨간쌀 진액 미스트
+cat2,cat2,catA,hanyul,빨간쌀 진액 스킨
+cat2,cat2,catA,hanyul,서리태 새결 에센스
+cat2,cat2,catA,hanyul,갈색솔잎 율려원액
+cat4,cat4,catB,hanyul,커버 파운데이션
+cat2,cat2,catA,hanyul,어린쑥 수분진정 미스트
+cat2,cat2,catA,hanyul,달빛유자 수면팩
+cat2,cat2,catA,hanyul,다홍매실 비움 초
+cat2,cat2,catA,hanyul,어린쑥 수분진정 플루이드
+cat2,cat2,catA,hanyul,어린쑥 수분진정 크림
+cat9,cat9,catE,hanyul,자연을 닮은 핸드크림
+cat1,cat1,catA,hanyul,어린쑥 진정맑은 클렌징 폼
+cat2,cat2,catA,hanyul,빨간쌀 진액 보습크림
+cat3,cat3,catA,hanyul,흰감국 광채 선크림 SPF+/PA++++
+cat2,cat2,catA,hanyul,어린쑥 수분진정 토너
+cat2,cat2,catA,hanyul,자연을 닮은 시트마스크
